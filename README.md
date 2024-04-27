@@ -1,4 +1,4 @@
 # myproject
 This is my first project
 <br>
-Author - Riaz Ahmed
+Author - Riaz Ahmed Developer
